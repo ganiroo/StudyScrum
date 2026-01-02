@@ -1,0 +1,7 @@
+{
+  "name": "StudyScrum OS",
+  "description": "A high-end, futuristic minimalist productivity platform for engineering students featuring a Quest Board, Knowledge Vault, and Efficiency Engine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
